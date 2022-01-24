@@ -1,6 +1,13 @@
 # Interpretable_ML_Resources
 Resources for Interpretable and Explainable AI
 
+# Books
+
+* **Interpretable Machine Learning** - Serg Masis
+* 
+
+# Packages
+
 ## Explainable Linear Models
 * Item
 * Item
