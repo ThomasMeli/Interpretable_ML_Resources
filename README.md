@@ -2,9 +2,9 @@
 Resources for Interpretable and Explainable AI
 
 ## Explainable Linear Models
-*.
-*.
-*.
+* Item
+* Item
+* Item
 
 ## Explainable Tree Models
 
