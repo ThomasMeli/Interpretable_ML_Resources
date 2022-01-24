@@ -29,3 +29,8 @@ Resources for Interpretable and Explainable AI
 # Interpretable Causal Inference + Counterfactuals
 
 # Feature Selection and Interpretability
+
+# Other Aggregations of ML Interpretability Resources
+
+* **H2o AI** https://github.com/h2oai/mli-resources
+* **Awesome-Xai** - https://github.com/altamiracorp/awesome-xai
