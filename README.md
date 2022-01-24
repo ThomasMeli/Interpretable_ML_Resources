@@ -2,17 +2,7 @@
 
 This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
 
-It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page.
-
-## Introduction:
-
-**Explaining Why A Model Makes a Certain Prediction** or **How a model is generalizing from Data**.  
-
-
-# Books
-
-* **Interpretable Machine Learning** - Serg Masis
-* 
+It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page. 
 
 # General XAI Packages
 
@@ -48,6 +38,11 @@ It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  Fo
 # Interpretable Causal Inference + Counterfactuals
 
 # Feature Selection and Interpretability
+
+# Books
+
+* **Interpretable Machine Learning** - Serg Masis
+
 
 # Other Aggregations of ML Interpretability Resources
 
