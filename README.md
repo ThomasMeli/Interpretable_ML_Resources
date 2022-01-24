@@ -2,7 +2,7 @@
 
 This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
 
-It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page. 
+It prioritizes quality over quantity, limiting each subsection to the top 5-10 links we've found so far.  It thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page and the "overflow.md" file.
 
 # General XAI Packages
 
