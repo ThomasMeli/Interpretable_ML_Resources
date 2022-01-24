@@ -1,10 +1,13 @@
 # Interpretable_ML_Resources
 
+This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
+
+It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page.
+
 ## Introduction:
 
 **Explaining Why A Model Makes a Certain Prediction** or **How a model is generalizing from Data**.  
 
-This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
 
 # Books
 
