@@ -11,7 +11,18 @@ This repository is devoted to curating and organizing resources used to increase
 * **Interpretable Machine Learning** - Serg Masis
 * 
 
-# Packages
+# General XAI Packages
+
+## XAI Packages in Python
+* Alibi - https://github.com/SeldonIO/alibi
+* DiCE - Diverse Counterfactual Explanations - https://github.com/interpretml/DiCE
+* Explainer Dashboard - https://github.com/oegedijk/explainerdashboard
+* AI Explainability 360 - https://github.com/Trusted-AI/AIX360
+
+
+## XAI Packages in R
+* https://github.com/ModelOriented/DrWhy
+* 
 
 # White Box Models (Traditionally Explainable Models)
 
@@ -39,3 +50,6 @@ This repository is devoted to curating and organizing resources used to increase
 
 * **H2o AI** https://github.com/h2oai/mli-resources
 * **Awesome-Xai** - https://github.com/altamiracorp/awesome-xai
+* **Another Awesome XAI Mostly Papers** - https://github.com/lopusz/awesome-interpretable-machine-learning
+* https://github.com/pbiecek/xai_resources
+* **Yet Another awesome XAI - Alphabetical Order** - https://github.com/jphall663/awesome-machine-learning-interpretability
