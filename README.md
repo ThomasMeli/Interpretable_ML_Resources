@@ -7,6 +7,7 @@ It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  Fo
 # General XAI Packages
 
 ## XAI Packages in Python
+* InterpretML - https://github.com/interpretml/interpret
 * Alibi - https://github.com/SeldonIO/alibi
 * DiCE - Diverse Counterfactual Explanations - https://github.com/interpretml/DiCE
 * Explainer Dashboard - https://github.com/oegedijk/explainerdashboard
@@ -42,11 +43,12 @@ It prioritizes quality over quantity, and thus doesn't try to be exhaustive.  Fo
 # Books
 
 * **Interpretable Machine Learning** - Serg Masis
-
+* **XAI Stories** - Free Online Book - https://pbiecek.github.io/xai_stories/
 
 # Other Aggregations of ML Interpretability Resources
 
 * **H2o AI** https://github.com/h2oai/mli-resources
+* "Interesting Resources" - Very nice article summaries https://github.com/pbiecek/xai_resources
 * **Awesome-Xai** - https://github.com/altamiracorp/awesome-xai
 * **Another Awesome XAI Mostly Papers** - https://github.com/lopusz/awesome-interpretable-machine-learning
 * https://github.com/pbiecek/xai_resources
