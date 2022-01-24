@@ -1,5 +1,10 @@
 # Interpretable_ML_Resources
-Resources for Interpretable and Explainable AI
+
+## Introduction:
+
+**Explaining Why A Model Makes a Certain Prediction** or **How a model is generalizing from Data**.  
+
+This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
 
 # Books
 
