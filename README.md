@@ -2,7 +2,9 @@
 
 This repository is devoted to curating and organizing resources used to increase the ability of humans to understand and explain models. 
 
-It prioritizes quality over quantity, limiting each subsection to the top 5-10 links we've found so far.  It thus doesn't try to be exhaustive.  For exhaustive aggregations, see the resources at the bottom of this page and the "overflow.md" file.
+It prioritizes quality over quantity, limiting each subsection to the top 5-10 links we've found so far.  It thus doesn't try to be exhaustive.  
+
+The organization below follows the exceptional work, **Interpretable Machine Learning** by Serg Masís.
 
 # General XAI Packages
 
@@ -34,7 +36,7 @@ Sparse models tend to be more interpretable and explainable because they reduce 
 
 ### RuleFit
 
-_"RuleFit is one model-class family that is a hybrid between a LASSO linear regression to get regularized coefficients for every feature and merges this with decision rules, which it also uses LASSO to regularize. These decision rules are extracted by traversing a decision tree finding interaction effects between features and assigning coefficients to them based on their impact on the model. The implementation used in this chapter uses gradient boosted decision trees to perform this task."_ - Serg Masis, Interpretable Machine Learning, pg 115
+_"RuleFit is one model-class family that is a hybrid between a LASSO linear regression to get regularized coefficients for every feature and merges this with decision rules, which it also uses LASSO to regularize. These decision rules are extracted by traversing a decision tree finding interaction effects between features and assigning coefficients to them based on their impact on the model. The implementation used in this chapter uses gradient boosted decision trees to perform this task."_ - Serg Masís, Interpretable Machine Learning, pg 115
 
 
 * **iModel** - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
@@ -63,7 +65,7 @@ Why did my model make this prediction? Can this prediction be attributed to adve
 
 # Books
 
-* **Interpretable Machine Learning** - Serg Masis
+* **Interpretable Machine Learning** - Serg Masís
 * **XAI Stories** - Free Online Book - https://pbiecek.github.io/xai_stories/
 
 # Other Aggregations of ML Interpretability Resources
