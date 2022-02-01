@@ -37,7 +37,7 @@ Sparse models tend to be more interpretable and explainable because they reduce 
 _"RuleFit is one model-class family that is a hybrid between a LASSO linear regression to get regularized coefficients for every feature and merges this with decision rules, which it also uses LASSO to regularize. These decision rules are extracted by traversing a decision tree finding interaction effects between features and assigning coefficients to them based on their impact on the model. The implementation used in this chapter uses gradient boosted decision trees to perform this task."_ - Serg Masis, Interpretable Machine Learning, pg 115
 
 
-* iModel - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
+* **iModel** - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
 
 
 # Glass Box Models (Newer Explainable Models)
