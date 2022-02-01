@@ -6,14 +6,16 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 
 # General XAI Packages
 
-## XAI Packages in Python
-* Shapash - A Shapley Explainer Dashboard - https://shapash.readthedocs.io/en/latest/
+## XAI Dashboards and Suites  in Python
+* iModel - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
 * InterpretML - https://github.com/interpretml/interpret
-* Alibi - https://github.com/SeldonIO/alibi
-* DiCE - Diverse Counterfactual Explanations - https://github.com/interpretml/DiCE
 * Explainer Dashboard - https://github.com/oegedijk/explainerdashboard
+* Alibi - https://github.com/SeldonIO/alibi
 * AI Explainability 360 - https://github.com/Trusted-AI/AIX360
 
+### Specific XAI Packages
+* DiCE - Diverse Counterfactual Explanations - https://github.com/interpretml/DiCE
+* Shapash - A Shapley Explainer Dashboard - https://shapash.readthedocs.io/en/latest/
 
 ## XAI Packages in R
 * https://github.com/ModelOriented/DrWhy
