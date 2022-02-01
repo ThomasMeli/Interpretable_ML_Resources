@@ -22,7 +22,13 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 # White Box Models (Traditionally Explainable Models)
 
 ## Linear Models 
-* 
+* **Statsmodels** - Great statistical output for regression models -  https://www.statsmodels.org/stable/index.html
+
+
+## Sparse Models and Regularization:
+
+Sparse models tend to be more interpretable and explainable because they reduce the complexity of models.
+**Sparsity and Regularization** - 
 
 # Glass Box Models (Newer Explainable Models)
 
@@ -34,6 +40,9 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 
 ## Explainable Deep Learning Models
 
+### NLP Explainability
+* **LIT - Language Interpretability Tool** - https://github.com/pair-code/lit - "LIT is built to answer questions such as: What kind of examples does my model perform poorly on?
+Why did my model make this prediction? Can this prediction be attributed to adversarial behavior, or to undesirable priors in the training set?  Does my model behave consistently if I change things like textual style, verb tense, or pronoun gender?"
 
 # Interpretable Causal Inference + Counterfactuals
 
