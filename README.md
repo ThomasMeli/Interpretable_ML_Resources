@@ -6,11 +6,15 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 
 The organization of the resources below mostly follows the organization of the exceptional work **Interpretable Machine Learning** by Serg Masís.
 
-# Key concepts of Interpretability and the Resources Below:
+# Key concepts of Interpretability:
 
 ### Explainability vs. Interpretability
 
 Explainability and interpretability are often conflated as if they are the same thing, so let's take a moment to distinguish them.  Saying a model is **interpretable** is saying that we are capable of _making sense of it_ while saying a model is **explainable** is saying we _understand in an under-the-hood sense of why it is making the predictions it is making_.  I can interpret your behavior if I can make sense of it, but I may not be able to really explain it.  However, when I am really baffled, I can't even interpret your behavior because perhaps it is too complicated.
+
+## The Predictive Accuracy and Interpretability Trade-off
+
+Models that are more complex can achieve higher predictions when they can make use of potential information in your dataset which is **non-linear** (an increase in one variable has a changing effect on the output variable - density dependence), **non-monotonic** (an increase in one variable doesn't always create an increase or decrease in the output), and can account for **interactions** (when predictor variables are not independent from one another).
 
 # General XAI Packages
 
