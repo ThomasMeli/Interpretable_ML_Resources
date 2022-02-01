@@ -16,6 +16,10 @@ Explainability and interpretability are often conflated as if they are the same 
 
 Models that are more complex can achieve higher predictions when they can make use of potential information in your dataset which is **non-linear** (an increase in one variable has a changing effect on the output variable - density dependence), **non-monotonic** (an increase in one variable doesn't always create an increase or decrease in the output), and can account for **interactions** (when predictor variables are not independent from one another).
 
+## Global vs Local Interpretations
+
+* ..
+
 # General XAI Packages
 
 ## XAI Dashboards and Suites in Python
