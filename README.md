@@ -4,7 +4,7 @@ This repository is devoted to curating and organizing resources used to increase
 
 It prioritizes quality over quantity, limiting each subsection to the top 5-10 links we've found so far.  It thus doesn't try to be exhaustive.  
 
-The organization of the resources below mostly follows the organization of the exceptional work, **Interpretable Machine Learning** by Serg Masís.
+The organization of the resources below mostly follows the organization of the exceptional work **Interpretable Machine Learning** by Serg Masís.
 
 # General XAI Packages
 
