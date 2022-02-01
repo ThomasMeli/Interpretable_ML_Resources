@@ -40,6 +40,9 @@ Sparse models tend to be more interpretable and explainable because they reduce 
 
 ## Explainable Deep Learning Models
 
+* **Tensorboard What-if Tool** - https://www.tensorflow.org/tensorboard/what_if_tool - "The What-If Tool (WIT) provides an easy-to-use interface for expanding understanding of black-box classification and regression ML models. With the plugin, you can perform inference on a large set of examples and immediately visualize the results in a variety of ways. Additionally, examples can be edited manually or programmatically and re-run through the model in order to see the results of the changes. It contains tooling for investigating model performance and fairness over subsets of a dataset."
+
+
 ### NLP Explainability
 * **LIT - Language Interpretability Tool** - https://github.com/pair-code/lit - "LIT is built to answer questions such as: What kind of examples does my model perform poorly on?
 Why did my model make this prediction? Can this prediction be attributed to adversarial behavior, or to undesirable priors in the training set?  Does my model behave consistently if I change things like textual style, verb tense, or pronoun gender?"
