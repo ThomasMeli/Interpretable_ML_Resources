@@ -8,9 +8,11 @@ The organization of the resources below mostly follows the organization of the e
 
 # Key concepts of Interpretability:
 
-### Explainability vs. Interpretability
+### Explainability vs. Interpretability vs. Causality
 
 Explainability and interpretability are often conflated as if they are the same thing, so let's take a moment to distinguish them.  Saying a model is **interpretable** is saying that we are capable of _making sense of it_ while saying a model is **explainable** is saying we _understand in an under-the-hood sense of why it is making the predictions it is making_.  I can interpret your behavior if I can make sense of it, but I may not be able to really explain it.  However, when I am really baffled, I can't even interpret your behavior because perhaps it is too complicated.
+
+When it is feasible (and it may not always be), I also strongly recommend designing experiments to test particular hypotheses and corroborate or disconfirm what our model interpretations may be saying.  Causal inference and experimental design therefore places an increased focus on the _reality_ of the situation rather than trying to understand what the _model_ is doing.  
 
 ## The Predictive Accuracy and Interpretability Trade-off
 
