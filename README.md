@@ -6,8 +6,8 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 
 # General XAI Packages
 
-## XAI Dashboards and Suites  in Python
-* iModel - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
+## XAI Dashboards and Suites in Python
+
 * InterpretML - https://github.com/interpretml/interpret
 * Explainer Dashboard - https://github.com/oegedijk/explainerdashboard
 * Alibi - https://github.com/SeldonIO/alibi
@@ -23,14 +23,22 @@ It prioritizes quality over quantity, limiting each subsection to the top 5-10 l
 
 # White Box Models (Traditionally Explainable Models)
 
-## Linear Models 
+### Linear Models 
 * **Statsmodels** - Great statistical output for regression models -  https://www.statsmodels.org/stable/index.html
 
 
-## Sparse Models and Regularization:
+### Sparse Models and Regularization:
 
 Sparse models tend to be more interpretable and explainable because they reduce the complexity of models.
 **Sparsity and Regularization** - 
+
+### RuleFit
+
+_"RuleFit is one model-class family that is a hybrid between a LASSO linear regression to get regularized coefficients for every feature and merges this with decision rules, which it also uses LASSO to regularize. These decision rules are extracted by traversing a decision tree finding interaction effects between features and assigning coefficients to them based on their impact on the model. The implementation used in this chapter uses gradient boosted decision trees to perform this task."_ - Serg Masis, Interpretable Machine Learning, pg 115
+
+
+* iModel - https://github.com/csinva/imodels -  "Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easy to use."
+
 
 # Glass Box Models (Newer Explainable Models)
 
